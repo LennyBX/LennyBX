@@ -11,7 +11,7 @@ I worked in several project on several languages such as PHP, Javascript. I made
 
 What technologies I use ?
 Web:
-html.png css.png php.png js.png
+html.png css.png php.png js.png 
 
 
 Framework:
