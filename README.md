@@ -1,16 +1,16 @@
-### Hi there 👋
+Who am I ?
+I'm a french Developper that enjoy discover new technologies !
 
-<!--
-**LennyBX/LennyBX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Owner of nothing.
 
-Here are some ideas to get you started:
+Websites :  / 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What kind of stuff did I do ?
+I worked in several project on several languages such as PHP, Javascript. I made funny stuff tho in GTA ROLEPLAY.
+
+What technologies I use ?
+Web:
+html.png css.png php.png js.png
+
+
+Framework:
