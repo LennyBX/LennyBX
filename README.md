@@ -6,6 +6,7 @@ Owner of nothing.
 Websites :  / 
 
 What kind of stuff did I do ?
+
 I worked in several project on several languages such as PHP, Javascript. I made funny stuff tho in GTA ROLEPLAY.
 
 What technologies I use ?
